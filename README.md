@@ -2,22 +2,22 @@
 
 ## About <a name = "about"></a>
 
-This project Merge Sort function for sorting an array of integers and unit tests written with Jest.
+This project Merge Sort function for sorting an array of integers and unit tests written with Jest
 
 ## Getting Started <a name = "getting_started"></a>
 
 ### Installing
 
-Run ```npm install``` to install the required dependencies (Jest).
+Run ```npm install``` to install the required dependencies (Jest)
 
 ```Bash
 
 npm install
 
 ```
-## Usage <a name = "usage"></a>
+### Usage <a name = "usage"></a>
 
-The ```merge.ts``` file contains the Merge function. Example as follows
+The ```merge.ts``` file contains the Merge function. Example as follows:
 
 ```typescript
 
@@ -33,9 +33,9 @@ console.log(sortedArray); // Output: [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
 ```
 
-### Testing
+### Testing <a name = "test"></a>
 
-The ```merge.test.ts``` file contains Jest unit tests for the ```merge.ts``` function. To run the tests
+The ```merge.test.ts``` file contains Jest unit tests for the ```merge.ts``` function. To run the tests:
 
 ```Bash
 
@@ -43,4 +43,4 @@ npm test
 
 ```
 
-This will execute the Jest tests and report any failures.
+This will execute the Jest tests and report any failures
