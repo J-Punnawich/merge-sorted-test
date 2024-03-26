@@ -34,6 +34,7 @@ console.log(sortedArray); // Output: [1, 2, 3, 4, 5, 6, 7, 8, 9]
 ```
 
 ### Testing
+
 The ```merge.test.ts``` file contains Jest unit tests for the ```merge.ts``` function. To run the tests
 
 ```Bash
@@ -41,3 +42,5 @@ The ```merge.test.ts``` file contains Jest unit tests for the ```merge.ts``` fun
 npm test
 
 ```
+
+This will execute the Jest tests and report any failures.
